@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d353ef12-b46b-47f9-ab77-9f406c8c2c84": {
+      "ProjectGuid": "d353ef12-b46b-47f9-ab77-9f406c8c2c84",
+      "DisplayName": "TesteIMC-BET2",
+      "ColorIndex": 0
+    },
+    "c13d5c68-333b-4bf5-a27e-af072d1a1e25": {
+      "ProjectGuid": "c13d5c68-333b-4bf5-a27e-af072d1a1e25",
+      "DisplayName": "TestXUnityIMC",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

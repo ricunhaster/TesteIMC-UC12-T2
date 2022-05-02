@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIMC-BET2", "TesteIMC-BET2\TesteIMC-BET2.csproj", "{D353EF12-B46B-47F9-AB77-9F406C8C2C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnityIMC", "TestXUnityIMC\TestXUnityIMC.csproj", "{C13D5C68-333B-4BF5-A27E-AF072D1A1E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D353EF12-B46B-47F9-AB77-9F406C8C2C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D353EF12-B46B-47F9-AB77-9F406C8C2C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D353EF12-B46B-47F9-AB77-9F406C8C2C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D353EF12-B46B-47F9-AB77-9F406C8C2C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13D5C68-333B-4BF5-A27E-AF072D1A1E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13D5C68-333B-4BF5-A27E-AF072D1A1E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13D5C68-333B-4BF5-A27E-AF072D1A1E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13D5C68-333B-4BF5-A27E-AF072D1A1E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A69D115-A5F0-4066-B1BE-134E9A030A3D}
+	EndGlobalSection
+EndGlobal
